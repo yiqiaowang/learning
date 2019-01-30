@@ -62,6 +62,8 @@
 
 * [AWS diagrams & notes](https://www.awsgeek.com)
 
+* [Lock free programming](http://www.drdobbs.com/lock-free-data-structures/184401865
+
 **CAP Theorem**
 
 * [Brewer's CAP Theorem](http://www.julianbrowne.com/article/brewers-cap-theorem)
