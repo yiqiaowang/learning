@@ -61,6 +61,7 @@
 * [Shapeless for Mortals](http://fommil.com/scalax15/) (2015) by Sam Halliday (Talk)
 * [Free monads - what? and why?](https://softwaremill.com/free-monads)
 * [Free Monad examples](https://github.com/kenbot/free)
+* [Learning Scalaz](http://eed3si9n.com/learning-scalaz/)
 
 **Typeclass**
 
