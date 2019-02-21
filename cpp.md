@@ -3,3 +3,4 @@
 - [bogotobogo resources](https://www.bogotobogo.com/cplusplus/cpptut.php)
 - [google cpp style guide](https://google.github.io/styleguide/cppguide.html)
 - [cpp referene](https://en.cppreference.com/)
+- [boost library](https://www.boost.org/)
