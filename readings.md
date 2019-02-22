@@ -64,6 +64,8 @@
 
 * [Lock free programming](http://www.drdobbs.com/lock-free-data-structures/184401865)
 
+* [books you wish you had read earlier](https://zeroequalsfalse.press/posts/programming-books-you-wish-you-read-earlier/)
+
 **CAP Theorem**
 
 * [Brewer's CAP Theorem](http://www.julianbrowne.com/article/brewers-cap-theorem)
